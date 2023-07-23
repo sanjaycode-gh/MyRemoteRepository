@@ -1,5 +1,4 @@
 
-
 Feature: Linkedin Automation
 
   @Login
