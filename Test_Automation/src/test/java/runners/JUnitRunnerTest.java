@@ -11,7 +11,7 @@ plugin= {"pretty", "json:target/report.json", "summary"},
 monochrome= true,
 //dryRun = false,
 glue = "stepDefinitions",
-features = "features"
+features = "features/flipkart.feature"
 //tags = "@invokingChrome and not @quit"
 
 		)
